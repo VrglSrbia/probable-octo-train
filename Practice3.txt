@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+<h1>Summer Holiday</h1>
+</div>
+
+<div class="w3-content">
+
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/culion.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Culion, Palawan</h2>
+  <p>
+  Culion, officially the Municipality of Culion, is a 3rd class municipality in the province of Palawan, Philippines. According to the 2015 census, it has a population of 20,139 people. Culion consists primarily of Culion Island as well as 41 minor surrounding islands, as part of the Calamian group of islands
+  </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/coron.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Coron, Palawan</h2>
+  <p>
+   Coron, officially the Municipality of Coron, is a 1st class municipality in the province of Palawan, Philippines. According to the 2015 census, it has a population of 51,803 people
+  </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/batanes.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Batanes</h2>
+  <p>
+   Batanes is an archipelagic province in the Philippines, administratively part of the Cagayan Valley region. It is the northernmost province in the country, and also the smallest, both in population and land area. Its capital is Basco located on the island of Batan
+  </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/sagada.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Sagada</h2>
+  <p>
+  Sagada is a town in the Cordillera Mountains, within the Philippines’ Mountain Province. Echo Valley’s hanging coffins are displayed high on cliffs, while centuries-old coffins are stacked in burial sites like Lumiang Cave. The nearby Sumaguing Cave has unusual limestone formations. To the north, Bomod-ok Falls has a natural swimming pool. Rice terraces are carved into the area's surrounding mountainsides 
+ </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/tagaytay.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Tagaytay</h2>
+  <p>
+    Tagaytay is a popular holiday town south of Manila on the Philippine island Luzon. Known for its mild climate, it sits on a ridge above Taal Volcano Island, an active volcano surrounded by Taal Lake. Overlooking the area, People’s Park in the Sky occupies the grounds of a never-finished presidential mansion. Picnic Grove is a recreation area with trails and a zip line
+  </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/siargao.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Siargao</h2>
+  <p>
+    Siargao is a tear-drop shaped island in the Philippine Sea situated 196 kilometers southeast of Tacloban. It has a land area of approximately 437 square kilometres. The east coast is relatively straight with one deep inlet, Port Pilar
+  </p>
+</div>
+
+</div>
+</div>
+</body>
+</html>
